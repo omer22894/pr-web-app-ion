@@ -9,7 +9,7 @@
               "Name": "packer_ami"
           },
           "ssh_username"      :   "ubuntu",
-          "type"              :   "amazon-ebs"
+          "type"              :   "amazon-ebs"ee
         }
       ],
     "provisioners": [
